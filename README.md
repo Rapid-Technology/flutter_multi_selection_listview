@@ -1,4 +1,4 @@
-# flutter_multi_select_listview
+# Flutter Multi Selection ListView
 
 A new Flutter application.
 
